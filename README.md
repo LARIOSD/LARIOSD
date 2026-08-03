@@ -87,8 +87,8 @@ Cuento con experiencia en entornos de producción procesando alto volumen transa
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=9CA3AF" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00ADD8&text_color=9CA3AF&hide=html,css" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LARIOSD&show_icons=true&theme=transparent&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=9CA3AF" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LARIOSD&layout=compact&theme=transparent&hide_border=true&title_color=00ADD8&text_color=9CA3AF&hide=html,css" width="48%" alt="Top Languages" />
 </div>
 
 ---
